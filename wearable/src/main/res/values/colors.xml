@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="digital_text">#ffffff</color>
+    <color name="hour_hand_paint">#65f9f4</color>
+    <color name="minute_hand_paint">#ffa02b</color>
+    <color name="hour_line_color">#fff</color>
+    <color name="analag_hands_shadow">#e2e1e1</color>
+    <color name="minute_arc_color">#21d8f1</color>
+    <color name="hi_circle">#690203</color>
+    <color name="hi_lo_text" >#e7e6e6</color>
+    <color name="gradient_start">#6e6e6e</color>
+    <color name="gradient_end">#383838</color>
+    <color name="day_text">#d10404</color>
+    <color name="second">#67f6fd</color>
+    <color name="second_bg">#bebdbd</color>
+</resources>
